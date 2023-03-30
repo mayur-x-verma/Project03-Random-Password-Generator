@@ -1,0 +1,121 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 0.8rem;
+  }
+  
+  .app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .create-area {
+    background-color: #444;
+    color: #fff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .create-area h2 {
+    margin-top: 0;
+  }
+  
+  .form {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+  }
+  
+  .form label {
+    margin-right: 1rem;
+    font-size: 1rem;
+  }
+  
+  .form input {
+    width: 4rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .form button {
+    background-color: #fff;
+    color: #222;
+    border: none;
+    padding: 0.5rem;
+    margin-left: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .form button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .password-generator {
+    background-color: #444;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  .password-generator h2 {
+    margin-top: 0;
+  }
+  
+  .password {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+  }
+  
+  .password input {
+    flex: 1;
+    padding: 0.5rem;
+    font-size: 1rem;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+  }
+  
+  .password button {
+    background-color: #fff;
+    color: #222;
+    border: none;
+    padding: 0.5rem;
+    margin-left: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .password button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
